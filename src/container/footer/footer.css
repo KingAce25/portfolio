@@ -1,0 +1,15 @@
+#footer
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.footer__top
+{
+    display: flex;
+    gap: 1rem;
+}

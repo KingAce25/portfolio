@@ -1,0 +1,164 @@
+.portfolio
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #ECEBEB;
+    align-items: center;
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.portfolio__header
+{
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+    padding-bottom: 4rem;
+}
+
+.card1{
+    display: flex;
+    background-color: #D9D9D9;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 15px;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card1 img
+{
+    width: 30rem;
+    border-radius: 10px;
+}
+
+.card1 .text
+{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 1rem;
+}
+
+.card2{
+    flex-direction: row-reverse;
+}
+
+#me
+{
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+}
+
+@media screen and (max-width:992px)
+{
+    .portfolio
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #ECEBEB;
+    align-items: center;
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.portfolio__header
+{
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+    padding-bottom: 4rem;
+}
+
+.card1{
+    display: flex;
+    flex-direction: column;
+    background-color: #D9D9D9;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 15px;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card1 img
+{
+    width: 18rem;
+    border-radius: 10px;
+}
+
+.card1 .text
+{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 1rem;
+}
+
+.card1 .text h2
+{
+    font-size: 16pt;
+}
+
+.card1 .text p
+{
+    font-size: 10pt;
+}
+}
+
+@media screen and (max-width:600px)
+{
+    .portfolio
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #ECEBEB;
+    align-items: center;
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.portfolio__header
+{
+    display: flex;
+    flex-direction: column;
+    gap: .75rem;
+    padding-bottom: 4rem;
+}
+
+.card1{
+    display: flex;
+    flex-direction: column;
+    background-color: #D9D9D9;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 15px;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card1 img
+{
+    width: 18rem;
+    border-radius: 10px;
+}
+
+.card1 .text
+{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 1rem;
+}
+
+.card1 .text h2
+{
+    font-size: 16pt;
+}
+
+.card1 .text p
+{
+    font-size: 10pt;
+}
+}
