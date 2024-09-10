@@ -20,7 +20,6 @@ const Menu = () => {
                     }
 
                 </div>
-                {/* <img src={Hamburger} /> */}
             </div>
 
 

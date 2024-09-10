@@ -19,6 +19,13 @@
 
 .hero__header h1 {
         padding-bottom: 2rem;
+        font-size: 32pt;
+}
+
+.hero__header p
+{
+        line-height: 2rem;
+        font-size: 14pt;
 }
 
 .hero__button {
