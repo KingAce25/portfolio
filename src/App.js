@@ -6,6 +6,7 @@ import Portfolio from './container/porfolio/Portfolio'
 import Skills from './container/skills/Skills'
 import Contact from './container/contact/Contact'
 import Footer from './container/footer/Footer'
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Skills />
       <Contact />
       <Footer />
+      <Analytics />
     </div>
   )
 }

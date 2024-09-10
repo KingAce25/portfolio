@@ -6,8 +6,8 @@
 }
 
 .hero__image img {
-        width: 356px;
-        height: auto;
+        width: auto;
+        height: 35rem;
         border-radius: 32px;
 }
 
@@ -101,6 +101,11 @@
 
         .hero__button a {
                 align-items: center;
+        }
+        .hero__image img {
+                /* width: auto; */
+                height: 20rem;
+                /* border-radius: 32px; */
         }
 }
 

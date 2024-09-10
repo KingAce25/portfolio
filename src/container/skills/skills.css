@@ -32,3 +32,17 @@
     display: flex;
     flex: 2;
 }
+
+@media screen and (max-width: 600px) {
+    .cards{
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .cards h4
+    {
+        text-align: center;
+        justify-content: center;
+    }
+}
