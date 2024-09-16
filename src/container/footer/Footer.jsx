@@ -15,7 +15,7 @@ const Footer = () => {
         <a href="chat.whatsapp.com/08143743903"><img src={Whatsapp} alt="" /></a>
       </div>
       <div className="footer__down">
-        <p><b>© 2024 John Doe</b></p>
+        <p><b>© 2024 King Ace</b></p>
       </div>
     </div>
   )
