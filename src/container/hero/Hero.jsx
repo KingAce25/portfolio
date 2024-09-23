@@ -18,8 +18,8 @@ const Hero = () => {
         </div>
         <div className="hero__button">
           <a href="https://github.com/KingAce25"><button className='button text-pop-up-top'><img src={Github} alt="" /> GitHub</button></a>
-          <a href="/"><button className='button text-pop-up-top'><img src={Linkedin} alt="" /> Linkedin</button></a>
-          <a href="/"><button className='button text-pop-up-top'><img src={Email} alt="" /> Email</button></a>
+          <a href="https://www.linkedin.com/"><button className='button text-pop-up-top'><img src={Linkedin} alt="" /> Linkedin</button></a>
+          <a href="#contact"><button className='button text-pop-up-top'><img src={Email} alt="" /> Email</button></a>
         </div>
       </div>
     </div>

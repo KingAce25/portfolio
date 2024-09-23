@@ -37,7 +37,7 @@ const Portfolio = () => {
           </div>
           <div className="text">
             <h2>Web Design</h2>
-            <p>Fusce in efficitur arcu, non vestibulum velit. Nullam lorem metus, placerat ut purus eu, pretium malesuada leo. Nulla quis lacus eget elit dignissim luctus. Mauris tortor quam, mattis a tincidunt sit amet, ullamcorper ut turpis. Vestibulum tempus ex sed nulla.</p>
+            <p>This is the frontend of a website aimed at people who are ready to learn and explore. Its focus is on topics such as web design, coding, marketing, and finance, The clean design and the focus on content categories shows that it's designed to help users to Discover, Learn and Enjoy knowledge in these areas.</p>
             <a href="https://new-iota-smoky.vercel.app/"><button className='button'>Visit Website</button></a>
           </div>
         </div>
