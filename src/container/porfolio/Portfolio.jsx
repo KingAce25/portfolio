@@ -36,9 +36,9 @@ const Portfolio = () => {
           <a href="https://new-iota-smoky.vercel.app/"><img src={Web} alt="" /></a>
           </div>
           <div className="text">
-            <h2>Web Design</h2>
-            <p>This is the frontend of a website aimed at people who are ready to learn and explore. Its focus is on topics such as web design, coding, marketing, and finance, The clean design and the focus on content categories shows that it's designed to help users to Discover, Learn and Enjoy knowledge in these areas.</p>
-            <a href="https://new-iota-smoky.vercel.app/"><button className='button'>Visit Website</button></a>
+            <h2>Donut, Cake and Cookie Website</h2>
+            <p>This website is a delightful haven for dessert lovers, showcasing an irresistible array of donuts, cookies, and cakes. With a visually appealing design, seamless navigation, and mouthwatering images, it offers detailed descriptions, customizable options, and easy ordering. Perfect for sweet-tooth cravings or special occasions, it promises indulgence with every click.</p>
+            <a href="https://cake-shop-ten-alpha.vercel.app/"><button className='button'>Visit Website</button></a>
           </div>
         </div>
       </div>
