@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import Web from '../../assets/web.png'
 import Gpt from '../../assets/gpt-3.png'
-import Cake from '../../assets/cake.png'
+import Cake from '../../assets/Cake.png'
 
 const Portfolio = () => {
   return (
