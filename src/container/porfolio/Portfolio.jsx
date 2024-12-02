@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import Web from '../../assets/web.png'
 import Gpt from '../../assets/gpt-3.png'
+import Cake from '../../assets/cake.png'
 
 const Portfolio = () => {
   return (
@@ -33,7 +34,7 @@ const Portfolio = () => {
         </div>
         <div className="card1">
           <div className="img">
-          <a href="https://new-iota-smoky.vercel.app/"><img src={Web} alt="" /></a>
+          <a href="https://new-iota-smoky.vercel.app/"><img src={Cake} alt="" /></a>
           </div>
           <div className="text">
             <h2>Donut, Cake and Cookie Website</h2>
